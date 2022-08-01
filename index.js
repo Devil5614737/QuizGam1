@@ -328,6 +328,7 @@ function clear() {
 function gameOver() {
     alert('game over')
     startBtn.classList.remove('active');
+        window.location='/'
     score = 0
     next.classList.remove('active');
     wrongCount = 0
