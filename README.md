@@ -1,1 +1,2 @@
-# QuizGam1
+# QuizGame1
+#Built with vanilla js
